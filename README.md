@@ -1,2 +1,2 @@
 # Real-time forecast combinations for the oil price
-The real-time data set is used in Garratt, A., Vahey, S. P. & Zhang, Y. (2018) `Real-time forecast combinations for the oil price'. We include the replication paper, database documentation and the data set. Please contact Yunyi Zhang (Yunyi.Zhang@warwick.ac.uk) if you have any questions.
+The real-time data set is used in Garratt, A., Vahey, S. P. & Zhang, Y. (2018) `Real-time forecast combinations for the oil price'. We include the replication paper, database documentation and the data set. Please contact Yunyi Zhang (yunyi_zhang@xmu.edu.cn) if you have any questions.
